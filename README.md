@@ -18,4 +18,4 @@ This is for deployment
 Please fork this repository and then issue pull request
 
 ###Copyright
-@Copyright 2020
+@Copyright 2020. All rights reserved
